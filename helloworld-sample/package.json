@@ -1,9 +1,10 @@
 {
-	"name": "helloworld-sample",
-	"displayName": "helloworld-sample",
+	"name": "lszomoru-helloworld-sample",
+	"displayName": "lszomoru-helloworld-sample",
 	"description": "HelloWorld example for VS Code",
+	"requiresWorkspaceTrust": "onStart",
 	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"publisher": "lszomoru",
 	"repository": "https://github.com/Microsoft/vscode-extension-samples/helloworld-sample",
 	"engines": {
 		"vscode": "^1.34.0"
